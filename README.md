@@ -19,4 +19,6 @@ The goal of the game is to accumulate as many points as possible by destroying e
 
 ## Gameplay Video
 
-Check out the gameplay video on YouTube: [Gameplay Video](https://youtu.be/-hewU1G5xDk)
+Check out the gameplay video on YouTube:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-hewU1G5xDk" target="_blank"><img src="http://img.youtube.com/vi/-hewU1G5xDk/0.jpg" alt="Gameplay Video" width="240" height="180" border="10" /></a>
