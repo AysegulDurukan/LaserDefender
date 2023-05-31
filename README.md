@@ -16,3 +16,7 @@ Be careful! The enemies will fight back, so you'll need to dodge their attacks w
 ## Goal
 
 The goal of the game is to accumulate as many points as possible by destroying enemies, advancing through the levels, and seeing how far you can get. Good luck and have fun!
+
+## Gameplay Video
+
+Check out the gameplay video on YouTube: [Gameplay Video](https://youtu.be/-hewU1G5xDk)
